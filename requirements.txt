@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+kenlm==0.1.20240111
+nltk
+transformers
+datasets
+tqdm
+joblib
+sentence-transformers
+zstandard
+huggingface-hub
